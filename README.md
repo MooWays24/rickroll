@@ -4,7 +4,7 @@ A website with the auto-playing song "Never Gonna Give You Up" that can be used 
 # Current Rickrolls: 78,378
 ### (Last checked on 12/31/22)
 
-**Find it here: https://bit.ly/3BlS71b**
+**Find it here: https://roll./nors.win**
 
 UPDATE 1: This small project has RickRolled 23,440 people and counting as of Jan. 31st, 2022!
 
@@ -16,4 +16,4 @@ UPDATE 4: Reached 44,296 RickRolls on June 16th, 2022!
 
 UPDATE 5: Hit 50K RickRolls on July 23rd, 2022!
 
-[i1]: https://github.com/ShatteredDisk/rickroll/issues/1
+[i1]: https://github.com/DJStompZone/rickroll/issues/1
